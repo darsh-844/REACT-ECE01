@@ -1,0 +1,7 @@
+hr{
+    color: red;
+    border-color: red;
+    border-style: dashed;
+    height: 50%;
+    border-width: 2px;     
+}
