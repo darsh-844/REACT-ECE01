@@ -4,7 +4,6 @@ function Counter() {
   return (
     <div>
         <p>Count:</p>
-        <button onClick={} => setcount></button>
     </div>
   )
 }
